@@ -1,4 +1,4 @@
-Here’s a bilingual README ready for that time-converter program:
+
 
 ---
 
